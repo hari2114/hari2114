@@ -4,4 +4,4 @@
 - 💡 Skilled in Python, Machine Learning, TensorFlow  
 - 🚀 Built projects: Drowsiness Detection, Industrial Object Detection  
 - 🤝 Open to collaboration on AI/ML projects  
-- 📫 Contact: LinkedIn - https://linkedin.com/in/your-link  
+- 📫 Contact: LinkedIn -  https://www.linkedin.com/in/harish-nagarajan21/
