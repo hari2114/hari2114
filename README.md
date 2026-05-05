@@ -5,3 +5,4 @@
 - 🚀 Built projects: Drowsiness Detection, Industrial Object Detection  
 - 🤝 Open to collaboration on AI/ML projects  
 - 📫 Contact: LinkedIn -  https://www.linkedin.com/in/harish-nagarajan21/
+- 📫 How to reach me: Gmail -  harishyogesh63@gmail.com
